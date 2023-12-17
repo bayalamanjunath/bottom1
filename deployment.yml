@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
       - name: hello-world
-        image: bottom1
+        image: hello-world
         #command: ["/bin/sleep", "3650d"]
         env:
         - name: JAVA_ARGS
